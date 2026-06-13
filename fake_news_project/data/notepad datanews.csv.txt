@@ -1,0 +1,14 @@
+text,label
+India wins cricket match,real
+Government launches new scheme,real
+ISRO launches satellite,real
+PM announces new policy,real
+Stock market rises today,real
+New hospital opened in Chennai,real
+
+Aliens landed in Delhi,fake
+Zombie attack in Chennai,fake
+Ghost seen in train,fake
+Time travel machine invented,fake
+UFO spotted in Chennai,fake
+Invisible man seen in bus,fake
